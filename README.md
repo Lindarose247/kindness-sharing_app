@@ -1,0 +1,1 @@
+a web application designed to facilitate the donation of food to those in need and connect food donors with food banks and recipients. It aims to address the issues of food insecurity and food waste by providing a user-friendly platform for seamless donation management.
